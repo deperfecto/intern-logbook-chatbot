@@ -888,8 +888,8 @@
                 "in": "-",
                 "out": "-"
             },
-            "activity": "Idul Fitri Holiday",
-            "description": "Idul Fitri Holiday"
+            "activity": "off",
+            "description": "off"
         }
     ]
 }
