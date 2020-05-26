@@ -890,6 +890,15 @@
             },
             "activity": "off",
             "description": "off"
+        },
+        {
+            "date": "26/05/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "18.00"
+            },
+            "activity": "on job training di rumah (wfh)",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru. hari ini ada bimbingan mengenai skripsi dari pihak adins."
         }
     ]
 }
