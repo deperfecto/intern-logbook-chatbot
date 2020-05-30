@@ -926,6 +926,15 @@
             },
             "activity": "on job training di rumah (wfh)",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru"
+        },
+        {
+            "date": "30/05/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Day Off",
+            "description": "Day Off"
         }
     ]
 }
