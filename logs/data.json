@@ -953,6 +953,15 @@
             },
             "activity": "on job training di rumah (wfh)",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru. hari ini masuk karena ada target project yang belum selesai"
+        },
+        {
+            "date": "02/06/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "18.00"
+            },
+            "activity": "on job training di rumah (wfh)",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
