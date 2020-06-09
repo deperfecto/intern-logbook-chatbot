@@ -1016,6 +1016,15 @@
             },
             "activity": "Day Off",
             "description": "Day Off"
+        },
+        {
+            "date": "09/06/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "18.00"
+            },
+            "activity": "on job training di rumah (wfh)",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
