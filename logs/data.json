@@ -1160,6 +1160,15 @@
             },
             "activity": "on job training di rumah (wfh)",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
+        },
+        {
+            "date": "25/06/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "19.30"
+            },
+            "activity": "on job training di rumah (wfh)",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
