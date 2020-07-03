@@ -1165,7 +1165,7 @@
             "date": "25/06/2020",
             "clock": {
                 "in": "09.00",
-                "out": "19.30"
+                "out": "18.00"
             },
             "activity": "on job training di rumah (wfh)",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
@@ -1174,7 +1174,7 @@
             "date": "26/06/2020",
             "clock": {
                 "in": "09.00",
-                "out": "19.30"
+                "out": "18.00"
             },
             "activity": "on job training di rumah (wfh)",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
@@ -1226,6 +1226,15 @@
         },
         {
             "date": "02/07/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "19.30"
+            },
+            "activity": "on job training di rumah (wfh)",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
+        },
+        {
+            "date": "03/07/2020",
             "clock": {
                 "in": "09.00",
                 "out": "19.30"
