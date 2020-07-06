@@ -1259,6 +1259,15 @@
             },
             "activity": "Day Off",
             "description": "Day Off"
+        },
+        {
+            "date": "06/07/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Day Off",
+            "description": "Day Off"
         }
     ]
 }
