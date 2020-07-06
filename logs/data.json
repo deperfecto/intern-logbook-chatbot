@@ -1263,11 +1263,11 @@
         {
             "date": "06/07/2020",
             "clock": {
-                "in": "-",
-                "out": "-"
+                "in": "09.00",
+                "out": "18.00"
             },
-            "activity": "Day Off",
-            "description": "Day Off"
+            "activity": "on job training",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
