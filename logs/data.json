@@ -1326,11 +1326,11 @@
         {
             "date": "13/07/2020",
             "clock": {
-                "in": "-",
-                "out": "-"
+                "in": "09.00",
+                "out": "18.00"
             },
-            "activity": "Day Off",
-            "description": "Day Off"
+            "activity": "on job training",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         },
         {
             "date": "14/07/2020",
@@ -1385,6 +1385,15 @@
             },
             "activity": "Day Off",
             "description": "Day Off"
+        },
+        {
+            "date": "20/07/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "18.00"
+            },
+            "activity": "on job training",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
