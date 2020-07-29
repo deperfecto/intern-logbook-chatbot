@@ -1466,6 +1466,15 @@
             },
             "activity": "on job training",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru"
+        },
+        {
+            "date": "29/07/2020",
+            "clock": {
+                "in": "08.45",
+                "out": "18.00"
+            },
+            "activity": "on job training",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru"
         }
     ]
 }
