@@ -1484,6 +1484,15 @@
             },
             "activity": "on job training",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru"
+        },
+        {
+            "date": "31/07/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Idul Adha Holiday",
+            "description": "Idul Adha Holiday"
         }
     ]
 }
