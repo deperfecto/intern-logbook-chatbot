@@ -1520,6 +1520,15 @@
             },
             "activity": "Day Off",
             "description": "Day Off"
+        },
+        {
+            "date": "04/08/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Day Off",
+            "description": "Day Off"
         }
     ]
 }
