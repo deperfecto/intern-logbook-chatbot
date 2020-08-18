@@ -1650,11 +1650,11 @@
         {
             "date": "18/08/2020",
             "clock": {
-                "in": "-",
-                "out": "-"
+                "in": "08.45",
+                "out": "18.00"
             },
-            "activity": "off",
-            "description": "off"
+            "activity": "on job training",
+            "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
         }
     ]
 }
