@@ -1646,6 +1646,15 @@
             },
             "activity": "off",
             "description": "off"
+        },
+        {
+            "date": "18/08/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "off",
+            "description": "off"
         }
     ]
 }
