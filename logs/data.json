@@ -1664,6 +1664,15 @@
             },
             "activity": "on job training",
             "description": "mengerjakan page, form dan API yang diperlukan untuk framework baru."
+        },
+        {
+            "date": "20/08/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Islamic New Year",
+            "description": "Islamic New Year"
         }
     ]
 }
