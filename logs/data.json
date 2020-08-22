@@ -1682,6 +1682,15 @@
             },
             "activity": "Islamic New Year",
             "description": "Islamic New Year"
+        },
+        {
+            "date": "22/08/2020",
+            "clock": {
+                "in": "-",
+                "out": "-"
+            },
+            "activity": "Day Off",
+            "description": "Day Off"
         }
     ]
 }
