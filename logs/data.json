@@ -269,6 +269,15 @@
             },
             "activity": "develop code untuk framework baru",
             "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
+        },
+        {
+            "date": "01/10/2020",
+            "clock": {
+                "in": "08.45",
+                "out": "17.45"
+            },
+            "activity": "develop code untuk framework baru",
+            "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
         }
     ]
 }
