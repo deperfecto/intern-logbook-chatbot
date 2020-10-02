@@ -287,6 +287,33 @@
             },
             "activity": "develop code untuk framework baru",
             "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
+        },
+        {
+            "date": "03/10/2020",
+            "clock": {
+                "in": "OFF",
+                "out": "OFF"
+            },
+            "activity": "OFF",
+            "description": "OFF"
+        },
+        {
+            "date": "04/10/2020",
+            "clock": {
+                "in": "OFF",
+                "out": "OFF"
+            },
+            "activity": "OFF",
+            "description": "OFF"
+        },
+        {
+            "date": "02/10/2020",
+            "clock": {
+                "in": "OFF",
+                "out": "OFF"
+            },
+            "activity": "OFF",
+            "description": "OFF"
         }
     ]
 }
