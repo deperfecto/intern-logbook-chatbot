@@ -282,11 +282,11 @@
         {
             "date": "02/10/2020",
             "clock": {
-                "in": "08.45",
-                "out": "17.45"
+                "in": "OFF",
+                "out": "OFF"
             },
-            "activity": "develop code untuk framework baru",
-            "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
+            "activity": "OFF",
+            "description": "OFF"
         },
         {
             "date": "03/10/2020",
@@ -300,20 +300,20 @@
         {
             "date": "04/10/2020",
             "clock": {
-                "in": "OFF",
-                "out": "OFF"
+                "in": "-",
+                "out": "-"
             },
-            "activity": "OFF",
-            "description": "OFF"
+            "activity": "Day Off",
+            "description": "Day Off"
         },
         {
-            "date": "02/10/2020",
+            "date": "03/10/2020",
             "clock": {
-                "in": "OFF",
-                "out": "OFF"
+                "in": "-",
+                "out": "-"
             },
-            "activity": "OFF",
-            "description": "OFF"
+            "activity": "Day Off",
+            "description": "Day Off"
         }
     ]
 }
