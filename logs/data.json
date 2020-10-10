@@ -354,11 +354,11 @@
         {
             "date": "10/10/2020",
             "clock": {
-                "in": "OFF",
-                "out": "OFF"
+                "in": "-",
+                "out": "-"
             },
-            "activity": "OFF",
-            "description": "OFF"
+            "activity": "Day Off",
+            "description": "Day Off"
         },
         {
             "date": "11/10/2020",
@@ -370,7 +370,7 @@
             "description": "OFF"
         },
         {
-            "date": "09/10/2020",
+            "date": "10/10/2020",
             "clock": {
                 "in": "OFF",
                 "out": "OFF"
