@@ -408,11 +408,11 @@
         {
             "date": "16/10/2020",
             "clock": {
-                "in": "OFF",
-                "out": "OFF"
+                "in": "09.00",
+                "out": "18.00"
             },
-            "activity": "OFF",
-            "description": "OFF"
+            "activity": "develop untuk membuat framework baru",
+            "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
         },
         {
             "date": "17/10/2020",
@@ -461,6 +461,15 @@
         },
         {
             "date": "22/10/2020",
+            "clock": {
+                "in": "09.00",
+                "out": "18.00"
+            },
+            "activity": "develop code untuk framework baru",
+            "description": "membuat webservice, page yang diperlukan untuk Framework yang baru, melakukan testing dari webservice yang dibuat"
+        },
+        {
+            "date": "23/10/2020",
             "clock": {
                 "in": "09.00",
                 "out": "18.00"
