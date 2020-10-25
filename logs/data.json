@@ -480,29 +480,20 @@
         {
             "date": "24/10/2020",
             "clock": {
+                "in": "OFF",
+                "out": "OFF"
+            },
+            "activity": "OFF",
+            "description": "OFF"
+        },
+        {
+            "date": "25/10/2020",
+            "clock": {
                 "in": "-",
                 "out": "-"
             },
             "activity": "Day Off",
             "description": "Day Off"
-        },
-        {
-            "date": "25/10/2020",
-            "clock": {
-                "in": "OFF",
-                "out": "OFF"
-            },
-            "activity": "OFF",
-            "description": "OFF"
-        },
-        {
-            "date": "24/10/2020",
-            "clock": {
-                "in": "OFF",
-                "out": "OFF"
-            },
-            "activity": "OFF",
-            "description": "OFF"
         }
     ]
 }
